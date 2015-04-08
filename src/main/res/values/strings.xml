@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Toolbar</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_action">Action</string>
+    <string name="action_search">Search</string>
+    <string name="action_clear_search">Clear</string>
+    <string name="action_voice">Voice</string>
+    <string name="close_action_mode">Close ActionMode</string>
+    <!-- Navigation Drawer List -->
+    <string-array name="nav_list">
+        <item>Toolbar Actions</item>
+        <item>Toolbar Spinner</item>
+        <item>Toolbar Search</item>
+        <item>Toolbar Floating Search</item>
+        <item>Toolbar Tabs</item>
+        <item>Toolbar Transparent</item>
+    </string-array>
+    <string-array name="spinner_items">
+        <item>Item One</item>
+        <item>Item Two</item>
+        <item>Item Three</item>
+    </string-array>
+    <string name="filler">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sed lectus et eros sagittis commodo. Mauris sed consectetur lacus. Pellentesque pulvinar, mi vel interdum volutpat, eros diam malesuada sapien, vel finibus lectus enim vitae metus. Proin malesuada nulla lectus, eget ullamcorper ante congue et. Donec blandit fringilla velit. Ut eget nunc dignissim, aliquam nulla et, malesuada velit. Maecenas in magna mi. Duis dignissim rhoncus facilisis.
+
+Vivamus neque ipsum, aliquet et nisi gravida, ullamcorper tempus lacus. Maecenas a elit est. Nulla facilisi. Aliquam nec mattis ipsum. Fusce iaculis et erat at pharetra. Aliquam erat volutpat. Curabitur a purus pharetra, condimentum diam at, facilisis velit. Pellentesque ac ex ante. Nam fermentum est sed turpis ullamcorper, ac mattis elit pharetra. Nunc quis interdum ligula. Pellentesque tempus ante non mi ultrices, in pulvinar mauris elementum. Phasellus et pretium diam. Vivamus quis blandit sem. Pellentesque libero odio, fermentum non ligula vitae, pulvinar finibus orci. Suspendisse potenti. Curabitur dignissim tellus quam, sed vehicula nisl finibus vel.
+
+Integer quis lectus facilisis, feugiat ante quis, eleifend neque. Nunc vehicula finibus eros, id pharetra elit elementum sed. Integer vel lectus eu massa interdum hendrerit eget vitae nisi. Vivamus orci enim, aliquet quis elit quis, dictum ullamcorper nibh. Nam efficitur placerat nisi, sit amet hendrerit neque. Nunc at feugiat arcu. Morbi gravida magna neque, in gravida lectus consectetur et.
+
+Duis in dignissim mi. Mauris facilisis, ante eget feugiat dignissim, lectus est facilisis augue, vel fringilla lectus lorem vitae sapien. Ut varius diam et nisi scelerisque consectetur. Vestibulum a sem dignissim, volutpat nisl at, tincidunt tellus. Morbi imperdiet pharetra ligula, non porta sem. Nunc nisi sapien, accumsan sit amet posuere eget, sollicitudin vel urna. Praesent hendrerit nunc non est placerat aliquet. Vivamus tortor justo, venenatis et porttitor ac, aliquet quis purus. Phasellus porta dui non finibus accumsan. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras nec auctor tellus. Curabitur interdum pellentesque libero, sed finibus erat malesuada vel.
+
+Nulla vitae est leo. Suspendisse in rhoncus ex. Integer luctus ex ac lacus vestibulum imperdiet. Sed egestas, erat ac fermentum aliquet, orci tellus accumsan arcu, quis auctor lectus risus sit amet ligula. Nulla vel nibh euismod, auctor tortor id, tempus sapien. Phasellus consectetur justo ac ipsum sollicitudin suscipit. Phasellus cursus elementum lorem pulvinar lobortis. Sed at mi sit amet enim porttitor tempor eu nec erat. Suspendisse sed tellus auctor lorem venenatis finibus. Maecenas gravida a ipsum sit amet rhoncus. Proin tellus erat, sodales eu porta et, mattis a quam. Praesent eu eros venenatis, sollicitudin ligula in, placerat mi. Suspendisse auctor et purus vel dignissim. In ipsum dui, interdum a dictum rhoncus, condimentum id elit. Fusce vitae sem arcu.</string>
+</resources>

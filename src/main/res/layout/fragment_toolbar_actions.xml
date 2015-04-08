@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- Toolbar with a Spinner within it-->
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar_action"
+        android:layout_height="56dp"
+        android:layout_width="match_parent"
+        app:theme="@style/ThemeOverlay.AppCompat.Dark"
+        android:background="@color/primary"/>
+
+
+    <!-- Main Content -->
+    <RelativeLayout
+        android:layout_below="@+id/toolbar_action"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        android:paddingBottom="@dimen/activity_vertical_margin">
+
+        <Button
+            android:id="@+id/btnClearMenu"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Clear Menu"/>
+
+        <Button
+            android:id="@+id/btnInflateMenu"
+            android:layout_below="@+id/btnClearMenu"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Inflate Menu"/>
+
+        <CheckBox
+            android:id="@+id/cbSubtitle"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="16dp"
+            android:layout_below="@+id/btnInflateMenu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Show Subtitle"
+            android:checked="true"/>
+
+        <Button
+            android:id="@+id/btnHideToolbar"
+            android:layout_below="@+id/cbSubtitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Hide Toolbar (anim)"/>
+
+        <Button
+            android:id="@+id/btnShowToolbar"
+            android:layout_below="@+id/btnHideToolbar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Show Toolbar (anim)"/>
+
+        <Button
+            android:id="@+id/btnContextMenu"
+            android:layout_below="@+id/btnShowToolbar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="Show ActionMode"/>
+    </RelativeLayout>
+
+    <!-- Toolbar Shadow  -->
+    <LinearLayout
+        android:id="@+id/shadow"
+        android:orientation="horizontal"
+        android:layout_below="@+id/toolbar_action"
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:background="@drawable/bottom_shadow"/>
+</RelativeLayout>
