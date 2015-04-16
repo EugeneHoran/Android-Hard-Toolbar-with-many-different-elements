@@ -9,6 +9,7 @@ This application has a ton of diffent toolbar implementations. It also contains 
 
 If you are confused just click the link or image to see a video of everything in the app
 
-https://youtu.be/wESPkcwSp70
+[YouTube Video](https://youtu.be/wESPkcwSp70)
 
-[![ScreenShot](https://cloud.githubusercontent.com/assets/7454787/7056762/e0b2d20e-de1c-11e4-8104-22531f9e6e23.png)](https://youtu.be/wESPkcwSp70)
+
+[![](https://cloud.githubusercontent.com/assets/7454787/7192837/853994de-e467-11e4-8abf-4fd4ea112e4f.PNG)](https://youtu.be/wESPkcwSp70)
