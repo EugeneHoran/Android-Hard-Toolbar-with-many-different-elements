@@ -4,10 +4,7 @@
 
 API Level: 14 -21
 
-This application has a ton of diffent toolbar implementations. It also contains a naviagtion drawer. I believe everything retains its state on screen rotation.  If you find something that is wrong just post an issue and I will update it.  
-
-
-If you are confused just click the link or image to see a video of everything in the app
+This application has a ton of diffent toolbar implementations. It also contains a naviagtion drawer. I believe everything retains its state on screen rotation other than "hide" and "show".  If you find something that is wrong just post an issue and I will update it.  
 
 [YouTube Video](https://youtu.be/wESPkcwSp70)
 
